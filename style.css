@@ -145,6 +145,7 @@ section {
     background-color: #fff;
     border: 1px solid #fff;
     min-height: 14em;
+    max-width: fit-content;
     width: 23em;
     overflow: hidden;
     border-radius: 10px;
