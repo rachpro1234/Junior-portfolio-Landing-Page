@@ -43,7 +43,6 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url("./images/background.jpeg");
     background-position: center;
     background-attachment: fixed;
 }
