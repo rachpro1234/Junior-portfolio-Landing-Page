@@ -43,6 +43,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
+    background-image: url("./desktop-setup");
     background-position: center;
     background-attachment: fixed;
 }
