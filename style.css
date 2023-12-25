@@ -44,6 +44,7 @@ section {
     display: flex;
     align-items: center;
     background-image: url("./images/desktop-setup.jpg");
+    background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
 }
